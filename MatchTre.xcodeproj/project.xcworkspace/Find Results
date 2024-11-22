@@ -1,0 +1,31 @@
+Searching 9 files for "MatchTre"
+
+~/Downloads/MatchTre /MatchTre.xcodeproj/project.xcworkspace/contents.xcworkspacedata:
+    3     version = "1.0">
+    4     <FileRef
+    5:       location = "self:/Users/ceciliahumlelu/Downloads/MatchTre - Cecilia /MatchTre.xcodeproj">
+    6     </FileRef>
+    7  </Workspace>
+
+~/Downloads/MatchTre /MatchTre.xcodeproj/xcuserdata/bobbyggare.xcuserdatad/xcschemes/xcschememanagement.plist:
+    5  	<key>SchemeUserState</key>
+    6  	<dict>
+    7: 		<key>MatchTre.xcscheme_^#shared#^_</key>
+    8  		<dict>
+    9  			<key>orderHint</key>
+
+~/Downloads/MatchTre /MatchTre.xcodeproj/xcuserdata/ceciliahumlelu.xcuserdatad/xcschemes/xcschememanagement.plist:
+    5  	<key>SchemeUserState</key>
+    6  	<dict>
+    7: 		<key>MatchTre.xcscheme_^#shared#^_</key>
+    8  		<dict>
+    9  			<key>orderHint</key>
+
+~/Downloads/MatchTre /MatchTre.xcodeproj/xcuserdata/jesperlundqvist.xcuserdatad/xcschemes/xcschememanagement.plist:
+    5  	<key>SchemeUserState</key>
+    6  	<dict>
+    7: 		<key>MatchTre.xcscheme_^#shared#^_</key>
+    8  		<dict>
+    9  			<key>orderHint</key>
+
+4 matches across 4 files
