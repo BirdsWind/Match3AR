@@ -1,1 +1,11 @@
 .DS_Store
+
+# Ignore user-specific data
+*.xcuserdatad/
+*.xcuserdatad/**
+DerivedData/
+*.xcscmblueprint
+
+# Do not ignore shared schemes
+!xcshareddata/
+!xcshareddata/**/*
